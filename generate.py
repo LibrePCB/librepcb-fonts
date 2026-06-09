@@ -5,14 +5,27 @@ import psMat
 
 CODEPOINTS = [
   0x2022,  # •
-  0x21E7,  # ⇧ (macOS Shift key)
+  0x2196,  # ↖ (Home key)
+  0x2198,  # ↘ (End key)
+  0x21A9,  # ↩ (Return key)
+  0x21B5,  # ↵ (Newline/Enter key)
+  0x21DE,  # ⇞ (Page Up key)
+  0x21DF,  # ⇟ (Page Down key)
+  0x21E4,  # ⇤ (Backtab key)
+  0x21E5,  # ⇥ (Tab key)
+  0x21E7,  # ⇧ (Shift key)
+  0x21EA,  # ⇪ (CapsLock key)
   0x2300,  # ⌀
   0x2303,  # ⌃ (macOS Control key)
   0x2318,  # ⌘ (macOS Command key)
+  0x2324,  # ⌤ (macOS Enter key)
   0x2325,  # ⌥ (macOS Option key)
-  0x232B,  # ⌫
+  0x2326,  # ⌦ (Delete key)
+  0x2327,  # ⌧ (Clear key)
+  0x232B,  # ⌫ (Backspace key)
+  0x238B,  # ⎋ (macOS Escape key)
   0x23CE,  # ⏎
-  0x2423,  # ␣
+  0x2423,  # ␣ (Space key)
   0x25B8,  # ▸
   0x25BA,  # ►
   0x25BC,  # ▼
